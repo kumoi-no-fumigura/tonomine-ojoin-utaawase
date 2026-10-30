@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tonomine-ojoin-utaawase",
  "yomi": "とうのみねおうじょういんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（二題）",
+  "era": "未詳",
+  "author": "未詳",
+  "desc": "大和の多武峯往生院での歌合。家梅始開・池氷一倍残の二題で、美作・中務・宣旨・出羽・武蔵・讃岐・式部・左門・小馬ら女房名の作者が詠む。判詞はない。"
+ },
  "editions": [
   {
    "pid": "1879502",
