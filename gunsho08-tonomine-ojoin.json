@@ -26,7 +26,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": null,
+ "translation": {
+  "count": 1,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "gunsho08-tonomine-ojoin-0001",
@@ -230,6 +233,7 @@
   "poems": 16,
   "editions": 1,
   "updated": "2026-11-01",
-  "updated_at": "2026-11-01T19:06:09+09:00"
+  "updated_at": "2026-11-01T19:06:09+09:00",
+  "yaku": 1
  }
 }
